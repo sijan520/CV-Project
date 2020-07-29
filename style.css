@@ -1,0 +1,278 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: #E4F9F5;
+    margin: 0 auto;
+
+}
+header{
+
+}
+
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+   float: left;
+
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+}
+.header-contact a{
+text-decoration: none;
+color: teal;
+font-weight: bold;
+}
+.header-contact a:hover{
+text-decoration: underline;
+color: tomato;
+
+}
+.div-clear{
+    clear: both;
+}
+
+hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+/*---------
+----------*/
+
+#personal-section 
+
+.content{
+margin-bottom: 30px;
+}
+.lift-div{
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: right;
+}
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+#objective
+.content{
+    margin-bottom: 30px;
+    }
+    .lift-div{
+        width: 30%;
+        float: left;
+    }
+    .right-div{
+        width: 70%;
+        float: right;
+    }
+    .common-hr{
+        border: solid black 1px;
+        border-bottom: none;
+        width: 100%;
+        margin: 20px auto;
+    }
+#Education
+    .content{
+        margin-bottom: 30px;
+        }
+        .lift-div{
+            width: 30%;
+            float: left;
+        }
+        .right-div{
+            width: 70%;
+            float: right;
+        }
+        .common-hr{
+            border: solid black 1px;
+            border-bottom: none;
+            width: 100%;
+            margin: 20px auto;
+        }
+
+
+
+#Project
+
+.content{
+    margin-bottom: 30px;
+    }
+    .lift-div{
+        width: 30%;
+        float: left;
+    }
+    .right-div{
+        width: 70%;
+        float: right;
+    }
+    .common-hr{
+        border: solid black 1px;
+        border-bottom: none;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+#languages
+
+.content{
+    margin-bottom: 30px;
+    }
+    .lift-div{
+        width: 30%;
+        float: left;
+    }
+    .right-div{
+        width: 70%;
+        float: right;
+    }
+    .common-hr{
+        border: solid black 1px;
+        border-bottom: none;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+#Computer 
+.content{
+    margin-bottom: 30px;
+    }
+    .lift-div{
+        width: 30%;
+        float: left;
+    }
+    .right-div{
+        width: 70%;
+        float: right;
+    }
+    .common-hr{
+        border: solid black 1px;
+        border-bottom: none;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+
+    #Key Attributes
+    .content{
+        margin-bottom: 30px;
+        }
+        .lift-div{
+            width: 30%;
+            float: left;
+        }
+        .right-div{
+            width: 70%;
+            float: right;
+        }
+        .common-hr{
+            border: solid black 1px;
+            border-bottom: none;
+            width: 100%;
+            margin: 20px auto;
+        }
+
+#Personal details
+.content{
+    margin-bottom: 30px;
+    }
+    .lift-div{
+        width: 30%;
+        float: left;
+    }
+    .right-div{
+        width: 70%;
+        float: right;
+    }
+    .common-hr{
+        border: solid black 1px;
+        border-bottom: none;
+        width: 100%;
+        margin: 20px auto;
+    }
+
+
+
+#Reference
+.content{
+    margin-bottom: 30px;
+    }
+    .lift-div{
+        width: 30%;
+        float: left;
+    }
+    .right-div{
+        width: 70%;
+        float: right;
+    }
+    .common-hr{
+        border: solid black 1px;
+        border-bottom: none;
+        width: 100%;
+        margin: 20px auto;
+            }
+            
+            #Declaration
+            .content{
+                margin-bottom: 30px;
+                }
+                .lift-div{
+                    width: 30%;
+                    float: left;
+                }
+                .right-div{
+                    width: 70%;
+                    float: right;
+                }
+                .common-hr{
+                    border: solid black 1px;
+                    border-bottom: none;
+                    width: 100%;
+                    margin: 20px auto;
+                }
+
+
+
+
+
+
+
+.bottom-container{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bottom-container a{
+    color: wheat;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+    color: wheat;
+    margin-top: 20px;
+}
